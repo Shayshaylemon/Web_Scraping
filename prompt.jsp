@@ -72,6 +72,7 @@
             <option value="xenophobia">xenophobia</option>
         </select>
             <input type="submit" value="Click Here" />
+            <p> <a href="http://thisisindexed.com">Indexed</a> is copyrighted by Jessica Hagy.</p>
         </form>
     </body>
 </html>
